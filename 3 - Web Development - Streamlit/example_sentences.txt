@@ -1,0 +1,11 @@
+Kaspersky Lab discovered a new malware strain called DarkHotel that targets hotel guests.
+The group Anonymous claimed responsibility for the DDoS attack on the website of the FBI.
+A group of cybercriminals exploited a vulnerability in Microsoft Exchange to launch the SolarWinds attack.
+The CEO of FireEye announced the breach of their systems due to a sophisticated cyber-espionage campaign.
+According to the latest report by Symantec, phishing attacks increased by 30% in Q2 2024.
+A security researcher identified a zero-day vulnerability in Google Chrome that could allow 
+remote code execution.
+The APT group Cozy Bear was linked to the cyber intrusions against various government agencies in the USA.
+One ransomware attack led to widespread fuel shortages across the eastern United States.
+The National Cyber Security Centre - NSCS issued a warning about increased phishing attempts targeting remote workers.
+A group of researchers found that the malware Emotet has been reactivated and is once again spreading through malicious email attachments.
